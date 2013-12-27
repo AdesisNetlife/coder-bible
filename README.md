@@ -6,14 +6,14 @@
 
 ## About
 
-This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guide, best practices and conventions to be a reference in our daily work to the geek guys in [Adesis Netlife][adesis], and help you to be a pragmatic programmer
+This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guide, best practices and conventions to be a reference in our daily work to the geek guys in [Adesis Netlife][adesis], helping you to follow the shared conventions and helping you to be a pragmatic programmer
 
 ## Our Zen
 
 - If the implementation is hard to explain, it's a bad idea
 - Explicit is better than implicit, we hate speculation
 - There should be one-- and preferably only one --obvious way to do it (Occam's razor)
-- Avoid doing things you maybe could use (YAGNI)
+- Avoid doing things you maybe could not use (YAGNI)
 - Simple is better than complex (KISS)
 - Avoid redundancy and boilerplate code (DRY)
 - Sparse is better than dense, avoid "God Objects" (single reponsability principle)
@@ -29,13 +29,13 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 ## Our Values
 
 - We enjoy TDD, but we love BDD
-- We defende the proper and more proffesional way to do a problem
+- We defende the proper and more proffesional way to solve a problem
 - No ego, keep constantly learning from others
 - We seek to use the proper pattern to solve recurrent problems
 - Continous learning is a constant
 - We avoid anti-patterns, but if we must use it, it will be the best exceptional solution
-- We want to the be a pragmatic programmer
-- We never make "shit" things
+- We try to the be a pragmatic programmer always
+- We never make "shit"
 - If something do not exists, it could be a good time to doing to (DIY)
 
 ## Table of Contents
@@ -44,16 +44,19 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
   - JavaScript
     - Coding style guide
     - JavaScript patterns
-    - JavaScript
+    - JavaScript secrets
     - Functional-style JavaScript
-    - Languages-to-JS
+    - Compiles-to-JS
       - CoffeeScript
       - LiveScript
       - Dart
+    - Frameworks
+      - Backbone
+      - AngularJS
 
 ## Contributing
 
-Testing
+Fork this repository and make a PR with your changes or improvements
 
 ## License
 
