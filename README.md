@@ -18,7 +18,7 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 - Avoid redundancy and boilerplate code (DRY)
 - Sparse is better than dense, avoid "God Objects" (single reponsability principle)
 - Readability always matters, make it comprehesive
-- If it's hard to test, you need to rethink the implementation
+- If it's hard to test, you will probably need to rethink the implementation
 - Special cases aren't special enough to break the rules
 - Although practicality beats purity
 - Errors should never pass silently
