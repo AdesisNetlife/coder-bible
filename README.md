@@ -23,20 +23,20 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 - Although practicality beats purity
 - Errors should never pass silently
 - Now is better than never
+- Continous learning is a constant
 - Keep in mind "reutility" when you're coding
 - There is no an generic solution to all the problems
+- If something do not exists, it could be a good time to doing it (DIY)
 
 ## Our Values
 
-- We enjoy TDD, but we love BDD
-- We defende the proper and more proffesional way to solve a problem
+- We defende the proper and more compotent way to solve a problem
 - Humility is a great value ([Law of Jante][jante])
 - We seek to use the proper pattern to solve recurrent problems
-- Continous learning is a constant
-- We avoid anti-patterns, but if we must use it, it will be the best exceptional solution
-- We try to the be a pragmatic programmer always
-- We never make "shit"
-- If something do not exists, it could be a good time to doing to (DIY)
+- We avoid anti-patterns, but if we must use it, it will be an exceptional solution
+- We enjoy TDD, but we love BDD
+- We try to the be a permanent pragmatic programmer
+- We avoid making "shit"
 
 ## Table of Contents
 
