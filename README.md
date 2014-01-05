@@ -30,7 +30,7 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 
 - We enjoy TDD, but we love BDD
 - We defende the proper and more proffesional way to solve a problem
-- No ego, keep constantly learning from others
+- Humility is a great value ([Law of Jante][jante])
 - We seek to use the proper pattern to solve recurrent problems
 - Continous learning is a constant
 - We avoid anti-patterns, but if we must use it, it will be the best exceptional solution
@@ -64,3 +64,4 @@ Fork this repository and make a PR with your changes or improvements
 
 
 [adesis]: http://www.adesis.com
+[jante]: https://en.wikipedia.org/wiki/Law_of_Jante
