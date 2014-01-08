@@ -2,11 +2,13 @@
 
 > Don't be a sinner, come back to the herd
 
-> **Work in progress!**
+> **work in progress!**
 
 ## About
 
-This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guide, best practices and conventions to be a reference in our daily work to the geek guys in [Adesis Netlife][adesis], helping you to follow the shared conventions and helping you to be a pragmatic programmer
+This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guides, best practices and conventions to be a reference in our daily work for the geek guys in [Adesis Netlife][adesis].
+
+ helping you to follow the shared conventions and helping you to be a pragmatic programmer
 
 ## Our Zen
 
@@ -17,7 +19,7 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 - Simple is better than complex (KISS)
 - Avoid redundancy and boilerplate code (DRY)
 - Sparse is better than dense, avoid "God Objects" (single reponsability principle)
-- Readability always matters, make it comprehesive
+- Readability always matters, make it comprehesive as possible
 - If it's hard to test, you will probably need to rethink the implementation
 - Special cases aren't special enough to break the rules
 - Although practicality beats purity
@@ -28,7 +30,7 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 - There is no an generic solution to all the problems
 - If something do not exists, it could be a good time to doing it (DIY)
 
-## Our Values
+## Manifiesto
 
 - We defende the proper and more competent way to solve a problem
 - Humility is a great value ([Law of Jante][jante])
@@ -37,9 +39,8 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 - We avoid anti-patterns, but if we must use it, it will be an exceptional solution
 - We enjoy TDD, but we love BDD
 - We try to the be a permanent pragmatic programmer
-- We avoid making "shit"
 
-## Table of Contents
+## Resources
 
 - Languages
   - JavaScript
@@ -57,12 +58,16 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 
 ## Contributing
 
-Fork this repository and make a PR with your changes or improvements
+Any contribution will be really appreciated. 
+
+Please, feel free to fork this repository and make PR with your proposals or improvements
 
 ## License
 
 © Adesis Netlife S.L and contributors
 
+Text licensed under [Creative Commons CC-BY-SA][license]
 
 [adesis]: http://www.adesis.com
 [jante]: https://en.wikipedia.org/wiki/Law_of_Jante
+[license]: http://creativecommons.org/licenses/by-nc-sa/3.0/
