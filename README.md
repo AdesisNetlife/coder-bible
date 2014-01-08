@@ -8,7 +8,9 @@
 
 This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guides, best practices and conventions to be a reference in our daily work for the geek guys in [Adesis Netlife][adesis].
 
+<!--
  helping you to follow the shared conventions and helping you to be a pragmatic programmer
+-->
 
 ## Our Zen
 
