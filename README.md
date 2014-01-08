@@ -13,7 +13,7 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 ## Our Zen
 
 - If the implementation is hard to explain, it's a bad idea
-- Explicit is better than implicit, we hate speculation
+- Explicit is better than implicit
 - There should be one-- and preferably only one --obvious way to do it (Occam's razor)
 - Avoid doing things you maybe could not use (YAGNI)
 - Simple is better than complex (KISS)
