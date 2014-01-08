@@ -32,6 +32,7 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 
 - We defende the proper and more competent way to solve a problem
 - Humility is a great value ([Law of Jante][jante])
+- We're social guys, we enjoy pair programming
 - We seek to use the proper pattern to solve recurrent problems
 - We avoid anti-patterns, but if we must use it, it will be an exceptional solution
 - We enjoy TDD, but we love BDD
