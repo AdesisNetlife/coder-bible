@@ -2,11 +2,11 @@
 
 > Don't be a sinner, come back to the herd
 
-> **work in progress!**
+> **work still in progress!**
 
 ## About
 
-This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guides, best practices and conventions to be a reference in our daily work for the geek guys in [Adesis Netlife][adesis].
+This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guides, programming resources and articles, best practices/conventions to be a reference in a daily work for the geek guys in [Adesis Netlife][adesis]
 
 <!--
  helping you to follow the shared conventions and helping you to be a pragmatic programmer
@@ -44,6 +44,9 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 
 ## Resources
 
+**work in progress**
+
+<!--
 - Languages
   - JavaScript
     - Coding style guide
@@ -57,12 +60,13 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
     - Frameworks
       - Backbone
       - AngularJS
+-->
 
 ## Contributing
 
-Any contribution will be really appreciated. 
+Contributions would be really appreciated!
 
-Please, feel free to fork this repository and make PR with your proposals or improvements
+Please, feel free to fork this repository and make a PR with your proposals or improvements
 
 ## License
 
