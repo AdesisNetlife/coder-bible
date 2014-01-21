@@ -92,7 +92,7 @@ Text licensed under [Creative Commons CC-BY-SA][license]
 [jante]: https://en.wikipedia.org/wiki/Law_of_Jante
 [license]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
-[book-clean-clode]: http://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+[book-clean-code]: http://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
 [book-clean-coder]: http://www.amazon.es/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073
 [book-pragmatic-programmar]: http://pragprog.com/the-pragmatic-programmer
 [book-healthy-programmer]: http://pragprog.com/book/jkthp/the-healthy-programmer
