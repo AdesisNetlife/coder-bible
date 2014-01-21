@@ -71,7 +71,7 @@ A tiny books collection that you should keep in mind
   - [Clean Code - A Handbook of Agile Software Craftsmanship][book-clean-code]
   - [Clean Coder - A Code of Conduct for Professional Programmers][book-clean-coder]
   - [The Pragmatic Programmer][book-pragmatic-programmar]
-  - [The Healthy Programmar][book-healthy-programmer]
+  - [The Healthy Programmar][book-healthy-programmer] (for sure, you must)
   - [The Passionate Programmer][book-passionate-programmer]
 
 > A lot of useful books are missing, could you help?
