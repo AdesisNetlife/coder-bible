@@ -2,11 +2,11 @@
 
 > Don't be a sinner, come back to the herd
 
-> **work still in progress!**
+> **draft version! work in progress!**
 
 ## About
 
-This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guides, programming resources and articles, best practices/conventions to be a reference in a daily work for the geek guys in [Adesis Netlife][adesis]
+This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guides, programming resources and articles, best practices/conventions to be a reference in the daily work for the geek guys in [Adesis Netlife][adesis] and the world
 
 <!--
  helping you to follow the shared conventions and helping you to be a pragmatic programmer
@@ -40,11 +40,11 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 - We seek to use the proper pattern to solve recurrent problems
 - We avoid anti-patterns, but if we must use it, it will be an exceptional solution
 - We enjoy TDD, but we love BDD
-- We try to the be a permanent pragmatic programmer
+- We try to the be constantly a pragmatic programmer
 
 ## Resources
 
-**work in progress**
+> Here will be a general purpose programming useful links, could you help me?
 
 <!--
 - Languages
@@ -66,7 +66,7 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 
 Contributions would be really appreciated!
 
-Please, feel free to fork this repository and make a PR with your proposals or improvements
+Please, feel free to fork this repository and make PR with your proposals or improvements
 
 ## License
 
