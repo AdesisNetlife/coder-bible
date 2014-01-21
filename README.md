@@ -73,6 +73,14 @@ A tiny books collection that you should keep in mind
   - [The Pragmatic Programmer][book-pragmatic-programmar]
   - [The Healthy Programmar][book-healthy-programmer] (for sure, you must)
   - [The Passionate Programmer][book-passionate-programmer]
+- Languages
+  - JavaScript
+    - General
+      - [JavaScript, the definitive guide][book-javascript-definitive-guide]
+      - [JavaScript, the good parts][book-javascript-good-parts]
+    - Functional-style JavaScript
+      - [JavaScript Allongé][book-javascript-allonge]
+    
 
 > A lot of useful books are missing, could you help?
 
@@ -97,3 +105,8 @@ Text licensed under [Creative Commons CC-BY-SA][license]
 [book-pragmatic-programmar]: http://pragprog.com/the-pragmatic-programmer
 [book-healthy-programmer]: http://pragprog.com/book/jkthp/the-healthy-programmer
 [book-passionate-programmer]: http://pragprog.com/book/cfcar2/the-passionate-programmer
+
+[book-javascript-allonge]: https://leanpub.com/javascript-allonge
+[book-javascript-definitive-guide]: http://www.amazon.com/exec/obidos/ASIN/0596101996/wrrrldwideweb
+[book-javascript-good-parts]: http://shop.oreilly.com/product/9780596517748.do
+
