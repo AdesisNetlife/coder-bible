@@ -6,7 +6,7 @@
 
 ## About
 
-This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guides, programming resources and articles, best practices/conventions to be a reference in the daily work for the geek guys in [Adesis Netlife][adesis] and the world
+This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guides, programming resources and articles, best practices/conventions to be a reference in the daily work for the geek guys in [Adesis Netlife][adesis], and of couse, to the world
 
 <!--
  helping you to follow the shared conventions and helping you to be a pragmatic programmer
