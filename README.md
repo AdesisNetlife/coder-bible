@@ -47,6 +47,7 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 > Here will be a general purpose programming useful links, could you help?
 
 <!--
+# a possible ToC...
 - Languages
   - JavaScript
     - Coding style guide
@@ -64,7 +65,16 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 
 ## Books
 
-> Here will be a general purpose programming useful books, could you help?
+A tiny books collection that you should keep in mind
+
+- Craftsmanship
+  - [Clean Code - A Handbook of Agile Software Craftsmanship][book-clean-code]
+  - [Clean Coder - A Code of Conduct for Professional Programmers][book-clean-coder]
+  - [The Pragmatic Programmer][book-pragmatic-programmar]
+  - [The Healthy Programmar][book-healthy-programmer]
+  - [The Passionate Programmer][book-passionate-programmer]
+
+> A lot of useful books are missing, could you help?
 
 ## Contributing
 
@@ -81,3 +91,9 @@ Text licensed under [Creative Commons CC-BY-SA][license]
 [adesis]: http://www.adesis.com
 [jante]: https://en.wikipedia.org/wiki/Law_of_Jante
 [license]: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+[book-clean-clode]: http://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+[book-clean-coder]: http://www.amazon.es/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073
+[book-pragmatic-programmar]: http://pragprog.com/the-pragmatic-programmer
+[book-healthy-programmer]: http://pragprog.com/book/jkthp/the-healthy-programmer
+[book-passionate-programmer]: http://pragprog.com/book/cfcar2/the-passionate-programmer
