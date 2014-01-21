@@ -62,6 +62,10 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
       - AngularJS
 -->
 
+## Books
+
+> Here will be a general purpose programming useful books, could you help?
+
 ## Contributing
 
 Contributions would be really appreciated!
