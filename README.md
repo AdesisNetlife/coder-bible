@@ -44,7 +44,7 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 
 ## Resources
 
-> Here will be a general purpose programming useful links, could you help me?
+> Here will be a general purpose programming useful links, could you help?
 
 <!--
 - Languages
