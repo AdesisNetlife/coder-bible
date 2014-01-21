@@ -8,10 +8,6 @@
 
 This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guides, programming resources and articles, best practices/conventions to be a reference in the daily work for the geek guys in [Adesis Netlife][adesis], and of couse, to the world
 
-<!--
- helping you to follow the shared conventions and helping you to be a pragmatic programmer
--->
-
 ## Our Zen
 
 - If the implementation is hard to explain, it's a bad idea
@@ -36,32 +32,15 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 
 - We defende the proper and more competent way to solve a problem
 - Humility is a great value ([Law of Jante][jante])
-- We're social guys, we enjoy pair programming
 - We seek to use the proper pattern to solve recurrent problems
 - We avoid anti-patterns, but if we must use it, it will be an exceptional solution
 - We enjoy TDD, but we love BDD
+- We're social guys, we enjoy pair programming
 - We try to the be constantly a pragmatic programmer
 
 ## Resources
 
 > Here will be a general purpose programming useful links, could you help?
-
-<!--
-# a possible ToC...
-- Languages
-  - JavaScript
-    - Coding style guide
-    - JavaScript patterns
-    - JavaScript secrets
-    - Functional-style JavaScript
-    - Compiles-to-JS
-      - CoffeeScript
-      - LiveScript
-      - Dart
-    - Frameworks
-      - Backbone
-      - AngularJS
--->
 
 ## Books
 
