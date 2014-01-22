@@ -52,6 +52,8 @@ A tiny books collection that you should keep in mind
   - [The Pragmatic Programmer][book-pragmatic-programmar]
   - [The Healthy Programmar][book-healthy-programmer] (for sure, you must)
   - [The Passionate Programmer][book-passionate-programmer]
+- CSS
+  - [Responsive Web Design][book-rwd]
 - Languages
   - JavaScript
     - General
@@ -59,9 +61,13 @@ A tiny books collection that you should keep in mind
       - [JavaScript, the good parts][book-javascript-good-parts]
     - Functional-style JavaScript
       - [JavaScript Allongé][book-javascript-allonge]
-    
+    - AngularJS
+      - [Mastering Web Application Development with AngularJS][book-angularjs-mastering]
 
 > A lot of useful books are missing, could you help?
+
+## Useful slides
+ - [CSS3 for Responsive Web Design (full day workshop)][slides-andrew]
 
 ## Contributing
 
@@ -88,4 +94,6 @@ Text licensed under [Creative Commons CC-BY-SA][license]
 [book-javascript-allonge]: https://leanpub.com/javascript-allonge
 [book-javascript-definitive-guide]: http://www.amazon.com/exec/obidos/ASIN/0596101996/wrrrldwideweb
 [book-javascript-good-parts]: http://shop.oreilly.com/product/9780596517748.do
-
+[book-angularjs-mastering]: http://www.packtpub.com/angularjs-web-application-development/book
+[book-rwd]: http://www.amazon.com/gp/product/B005SYWGXW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005SYWGXW&linkCode=as2&tag=wwwawwwardsco-20 
+[slides-andrew]: https://speakerdeck.com/malarkey/css3-for-responsive-web-design-full-day-workshop
