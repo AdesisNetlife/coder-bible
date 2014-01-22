@@ -2,11 +2,11 @@
 
 > Don't be a sinner, come back to the herd
 
-> **draft version! work in progress!**
+> **draft version**
 
 ## About
 
-This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guides, programming resources and articles, best practices/conventions to be a reference in the daily work for the geek guys in [Adesis Netlife][adesis], and of couse, to the world
+This is a multi-purpose living documentation about principles, pragmatic metodologies, coding-style guides, technical useful books and articles, best practices/conventions to be a reference in the daily work for the geek guys in [Adesis Netlife][adesis], and of course, to the world
 
 ## Our Zen
 
@@ -27,7 +27,7 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 - Keep in mind "reutility" when you're coding
 - There is no an generic solution to all the problems
 - If something do not exists, it could be a good time to doing it (DIY)
-- We adopt the change, because it´s normal.
+- We adopt the change, because it's normal
 
 ## Manifiesto
 
@@ -39,46 +39,61 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 - We're social guys, we enjoy pair programming
 - We try to the be constantly a pragmatic programmer
 
-## Resources
-
-> Here will be a general purpose programming useful links, could you help?
-
 ## Books
 
 A tiny books collection that you should keep in mind
 
-- XP
-  - [Agile Samurai][book-agile-samuri]
-  - [Extreme Programming Explained][book-Extreme-Programming-Explained]
-  - [The Mythical Man-Month][book-The-Mythical-Man-Month]
-
-- TDD
-  - [Diseño Ágil con TDD][book-Disenio-Agil-con-TDD]
-  - [Effective Unit Testing: A guide for Java Developers][book-Effective-Unit-Testing] 
-
+- Agile Software Development
+  - Extreme Programming (XP)
+    - [Agile Samurai][book-agile-samuri]
+    - [Extreme Programming Explained][book-Extreme-Programming-Explained]
+    - [The Mythical Man-Month][book-The-Mythical-Man-Month]
+  - Test Development Driven (TDD)
+    - [Diseño Ágil con TDD][book-Disenio-Agil-con-TDD]
+    - [Effective Unit Testing: A guide for Java Developers][book-Effective-Unit-Testing] 
 - Craftsmanship
   - [Clean Code - A Handbook of Agile Software Craftsmanship][book-clean-code]
   - [Clean Coder - A Code of Conduct for Professional Programmers][book-clean-coder]
   - [The Pragmatic Programmer][book-pragmatic-programmar]
   - [The Healthy Programmar][book-healthy-programmer] (for sure, you must)
   - [The Passionate Programmer][book-passionate-programmer]
-  - [Code Complete: A Practical Handbook of Software Construction][book-Code-Complete]
-- CSS
-  - [Responsive Web Design][book-rwd]
-- Languages
+  - [Code Complete - A Practical Handbook of Software Construction][book-Code-Complete]
+  - [Release it! - Design and Deploy Production-Ready Software][book-release-it]
+  - [Practices Of An Agile Developer][book-practices-of-an-agile-developer]
+  - [Pragmatic Thinking and Learning][book-pragmatic-thinking-and-learning]
+- Web / Front End
+  - CSS
+    - [Responsive Web Design][book-rwd]
+- Software Engineering
+  - Software Patterns
+    - [Patterns-Based Engineering][book-patterns-based-engineering]
+  - Software Architecture
+    - [Pattern-Oriented Software Architecture][book-pattern-oriented-software]
+- Computer Networks
+  - General
+    - [Computer Networking - A Top Down Aproach][book-computer-networking]
+- Programming Languages
+  - Miscellaneous
+    - [Seven Languages in Seven Weeks][book-seven-languages]
   - JavaScript
     - General
       - [JavaScript, the definitive guide][book-javascript-definitive-guide]
       - [JavaScript, the good parts][book-javascript-good-parts]
+      - [JavaScript Enlightenment][book-javaScript-enlightenment]
     - Functional-style JavaScript
+      - [Functional JavaScript][book-functional-javascript]
       - [JavaScript Allongé][book-javascript-allonge]
     - AngularJS
       - [Mastering Web Application Development with AngularJS][book-angularjs-mastering]
 
 > A lot of useful books are missing, could you help?
 
-## Useful slides
+## Slides
  - [CSS3 for Responsive Web Design (full day workshop)][slides-andrew]
+
+## Resources
+
+> Here will be a general purpose programming useful articles, could you help?
 
 ## Contributing
 
@@ -109,10 +124,23 @@ Text licensed under [Creative Commons CC-BY-SA][license]
 [book-healthy-programmer]: http://pragprog.com/book/jkthp/the-healthy-programmer
 [book-passionate-programmer]: http://pragprog.com/book/cfcar2/the-passionate-programmer
 [book-Code-Complete]: http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670
+[book-release-it]: http://www.amazon.co.uk/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213/
+[book-seven-languages]: http://pragprog.com/book/btlang/seven-languages-in-seven-weeks
+[book-practices-of-an-agile-developer]: http://pragprog.com/book/pad/practices-of-an-agile-developer
+[book-pragmatic-thinking-and-learning]: http://www.amazon.es/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050
 
-[book-javascript-allonge]: https://leanpub.com/javascript-allonge
+[book-patterns-based-engineering]: http://patternsbasedengineering.net/
+[book-pattern-oriented-software]: http://www.amazon.com/Pattern-Oriented-Software-Architecture-Volume-Patterns/dp/0471958697
+
+[book-computer-networking]: http://www.cp.eng.chula.ac.th/~fyta/663/Curose-Ross%20-%20Computer_Networking_-_A_Top-down_Approach_Featuring_the_Internet__Third_Edition.pdf
+
 [book-javascript-definitive-guide]: http://www.amazon.com/exec/obidos/ASIN/0596101996/wrrrldwideweb
 [book-javascript-good-parts]: http://shop.oreilly.com/product/9780596517748.do
+[book-javaScript-enlightenment]: http://www.javascriptenlightenment.com/
+
+[book-javascript-allonge]: https://leanpub.com/javascript-allonge
+[book-functional-javascript]: http://shop.oreilly.com/product/0636920028857.do
+
 [book-angularjs-mastering]: http://www.packtpub.com/angularjs-web-application-development/book
 [book-rwd]: http://www.amazon.com/gp/product/B005SYWGXW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005SYWGXW&linkCode=as2&tag=wwwawwwardsco-20 
 [slides-andrew]: https://speakerdeck.com/malarkey/css3-for-responsive-web-design-full-day-workshop
