@@ -27,7 +27,7 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 - Keep in mind "reutility" when you're coding
 - There is no an generic solution to all the problems
 - If something do not exists, it could be a good time to doing it (DIY)
-- We adopt the changing, beacuse it´s normal.
+- We adopt the change, because it´s normal.
 
 ## Manifiesto
 
