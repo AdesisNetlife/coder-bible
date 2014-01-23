@@ -53,6 +53,7 @@ A tiny books collection that you should keep in mind
   - [The Mythical Man-Month][book-The-Mythical-Man-Month]
 
 - TDD
+  - [Test Driven Development (By Example)][book-test-driven-development-by-examples]
   - [Diseño Ágil con TDD][book-Disenio-Agil-con-TDD]
   - [Effective Unit Testing: A guide for Java Developers][book-Effective-Unit-Testing] 
 
@@ -63,6 +64,7 @@ A tiny books collection that you should keep in mind
   - [The Healthy Programmar][book-healthy-programmer] (for sure, you must)
   - [The Passionate Programmer][book-passionate-programmer]
   - [Code Complete: A Practical Handbook of Software Construction][book-Code-Complete]
+  - [Become a great developer][web-become-a-great-developer]
 - CSS
   - [Responsive Web Design][book-rwd]
 - Languages
@@ -100,6 +102,7 @@ Text licensed under [Creative Commons CC-BY-SA][license]
 [book-Extreme-Programming-Explained]: http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658
 [book-The-Mythical-Man-Month]: http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959
 
+[book-test-driven-development-by-examples]:http://www.amazon.es/Test-Driven-Development-By-Example/dp/0321146530
 [book-Disenio-Agil-con-TDD]: http://www.dirigidoportests.com/el-libro
 [book-Effective-Unit-Testing]:http://www.amazon.com/Effective-Unit-Testing-guide-Developers/dp/1935182579
 
@@ -109,6 +112,7 @@ Text licensed under [Creative Commons CC-BY-SA][license]
 [book-healthy-programmer]: http://pragprog.com/book/jkthp/the-healthy-programmer
 [book-passionate-programmer]: http://pragprog.com/book/cfcar2/the-passionate-programmer
 [book-Code-Complete]: http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670
+[web-become-a-great-developer]: https://the-pastry-box-project.net/ed-finkler/2014-january-6
 
 [book-javascript-allonge]: https://leanpub.com/javascript-allonge
 [book-javascript-definitive-guide]: http://www.amazon.com/exec/obidos/ASIN/0596101996/wrrrldwideweb
