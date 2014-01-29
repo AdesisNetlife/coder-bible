@@ -101,6 +101,13 @@ Contributions would be really appreciated!
 
 Please, feel free to fork this repository and make PR with your proposals or improvements
 
+## Contributors
+
+- [Félix Zapata](https://github.com/felixzapata)
+- [Luís Rogrigez](https://github.com/seymourpoler)
+- [Tomás Aparicio](http://github.com/h2non)
+- [Nikos M.](https://github.com/foo123)
+
 ## License
 
 © Adesis Netlife S.L and contributors
