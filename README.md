@@ -104,6 +104,7 @@ Please, feel free to fork this repository and make PR with your proposals or imp
 ## Contributors
 
 - [Félix Zapata](https://github.com/felixzapata)
+- [Rafael Pedrola](https://github.com/rafinskipg)
 - [Luís Rogrigez](https://github.com/seymourpoler)
 - [Tomás Aparicio](http://github.com/h2non)
 - [Nikos M.](https://github.com/foo123)
