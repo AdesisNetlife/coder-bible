@@ -13,31 +13,31 @@ This is a multi-purpose living documentation about principles, pragmatic metodol
 - If the implementation is hard to explain, it's a bad idea
 - Explicit is better than implicit
 - There should be one-- and preferably only one --obvious (optimal) way to do it (Occam's razor)
-- Avoid doing things you maybe could not use (YAGNI) ( maybe are not needed )
+- Avoid doing things you maybe could not use (YAGNI) (maybe are not needed)
 - Simple is better than complex (KISS)
 - Avoid redundancy and boilerplate code (DRY)
 - Sparse is better than dense, avoid "God Objects" (single reponsability principle)
 - Readability always matters, make it comprehesive as possible
 - If it's hard to test, you will probably need to rethink the implementation
-- Special cases aren't special enough to break the rules ( see below for *exceptions* and *special cases* )
+- Special cases aren't special enough to break the rules (see below for *exceptions* and *special cases*)
 - Although practicality beats purity
 - Errors should never pass silently
 - Now is better than never
-- Continous learning is a constant ( which is always changing )
+- Continous learning is a constant (which is always changing)
 - Keep in mind "reutility" when you're coding
-- There is no an generic solution to all the problems ( each problem should be **solved once** )
+- There is no an generic solution to all the problems (each problem should be **solved once**)
 - If something do not exists, it could be a good time to doing it (DIY)
 - We adopt the change, because it's normal ( and **not** because it is the *norm* )
 
 ## Manifiesto
 
 - We defende the proper and more competent way to solve a problem
-- Humility is a great value ([Law of Jante][jante]) ( which applies *both ways* )
+- Humility is a great value ([Law of Jante][jante]) (which applies *both ways*)
 - We seek to use the proper pattern to solve recurrent problems
-- We avoid anti-patterns, but if we must use it, it will be an exceptional solution ( although this **may break** the *rules* )
+- We avoid anti-patterns, but if we must use it, it will be an exceptional solution (although this **may break** the *rules*)
 - We enjoy TDD, but we love BDD
 - We're social guys, we enjoy pair programming
-- We try to the be constantly a pragmatic programmer ( and not an dogmatic one )
+- We try to the be constantly a pragmatic programmer (and not an dogmatic one)
 
 ## Books
 
