@@ -55,7 +55,7 @@ A tiny books collection that you should keep in mind
   - [Clean Code - A Handbook of Agile Software Craftsmanship][book-clean-code]
   - [Clean Coder - A Code of Conduct for Professional Programmers][book-clean-coder]
   - [The Pragmatic Programmer][book-pragmatic-programmar]
-  - [The Healthy Programmar][book-healthy-programmer] (for sure, you must)
+  - [The Healthy Programmer][book-healthy-programmer] (for sure, you must)
   - [The Passionate Programmer][book-passionate-programmer]
   - [Code Complete - A Practical Handbook of Software Construction][book-Code-Complete]
   - [Release it! - Design and Deploy Production-Ready Software][book-release-it]
